@@ -1,0 +1,478 @@
+
+bg = #fff
+bg-image = 'http://oi66.tinypic.com/308cvf4.jpg'
+color = #fff
+padding = 10px
+wrap-width = 960px
+info-gap = 30px
+info-padding = 32px 24px
+font = 'Source Sans Pro', sans-serif
+font-head = 'Monoton', sans-serif
+line = 2px solid rgba(255,255,255,.5)
+controls-gap = 90px
+fz-head = {
+    head: 56px,
+    subhead: 36px
+}
+fz-table = {
+    head: 20px,
+    body: 18px
+}
+table-paddings = { 
+    horizontal: 16px,
+    vertical: {
+        head: 18px,
+        body: 16px
+    }
+}
+icon-ratios = {
+    triangle: 2,
+    star: (37 / 35),
+    delete: (7 / 9)
+}
+
+nullify(args...)
+    for arg in args
+        {arg}: 0
+        
+last(prop, value, last-value)
+    {prop}: value
+    &:last-child
+        {prop}: last-value 
+
+fade-before()
+    &::before
+        content: ''
+        position absolute
+        nullify left top right bottom
+        z-index 1
+        background-color rgba(0,0,0,.4)
+        
+html
+body
+    height 100%
+
+html
+    font-family font
+
+body
+    margin 0
+    padding @margin
+    background-image url(bg-image)
+    background-position top center
+    background-repeat no-repeat
+    background-attachment fixed
+    background-size cover
+    color color
+    position relative
+
+.sprite
+    width 0
+    height @width
+    visibility hidden
+
+.wrap
+    position relative
+    display flex
+    justify-content center
+    min-height 100%
+    fade-before()
+    
+.TableSorting
+    width wrap-width
+    display flex
+    flex-direction column
+    justify-content space-between
+    min-height 100%
+    position relative
+    z-index 2
+    
+.TableContainer
+    &-head
+    &-subhead
+        text-align center
+        line-height 1
+        font-family font
+        font-weight 600
+    
+    types = head, subhead
+    for type in types
+        &-{type}
+            font-size: fz-head[type]
+            
+    &-head
+        margin-top 1em
+        margin-bottom 0
+    &-subhead
+        margin-top .4em
+        margin-bottom 1.5em
+
+horizontal-paddings()
+    for side in left right
+        padding-{side}: table-paddings.horizontal
+        
+vertical-paddings(args)
+    for side in top bottom
+        padding-{side}: table-paddings.vertical[args]
+
+.Table
+    table-layout fixed
+    width wrap-width + controls-gap
+    border-collapse collapse
+    border-spacing 0
+    margin-right - controls-gap
+        
+    &-colon
+        colons = { 
+            id: 64px, 
+            checkbox: 64px, 
+            product: 400px,
+            price: 120px
+            controls: controls-gap
+        } 
+        
+        for type, width in colons
+            &--{type}
+                width width
+    
+    &-colon
+        &.isActive
+            background-color rgba(255,255,255,0.3)
+            
+    &-cell
+        padding-left: table-paddings[horizontal]
+        vertical-paddings(body)
+        font-size: fz-table[body]
+
+        cells = index, checkbox, product, category, price
+        
+        for cell in cells
+            &--{cell}
+                border-bottom line
+                
+                if cell == price
+                    padding-right: table-paddings[horizontal] + 16px
+                else
+                    padding-right: table-paddings[horizontal]
+                
+                / .Table-row:hover &
+                / .Table-row.isSelected &
+                        background-color rgba(255,255,255,.2)          
+        
+        &--price
+            text-align right
+
+.Table-headCell
+    text-align left
+    padding 0
+    
+    cells = index, checkbox, product, category, price
+        
+    for cell in cells
+        &--{cell}
+            border-bottom line
+            border-top line
+            background-color rgba(255,255,255,.3)
+    
+    &.isActive
+        background-color rgba(255,255,255,.4)
+            
+    &--checkbox
+        horizontal-paddings()
+        vertical-paddings(head)
+    
+    &--price
+        text-align right
+            
+// Controls        
+.TableControl
+    cursor pointer
+    
+    &--sorting
+        display block
+        horizontal-paddings()
+        vertical-paddings(head)
+        svg
+            fill color
+   
+    &--checkbox
+        width 20px
+        height @width
+        fill none
+        stroke color
+        stroke-width 2px
+        
+        &.isActive
+            fill color
+    
+    &--delete
+        svg
+            width 16px
+            height 20px
+            opacity .75
+            fill rgba(255,255,255,.9)
+            
+            ^[-1]:hover svg
+                fill rgba(255,255,255,1)
+
+            
+    &-text
+        font-size: fz-table[head]
+        font-weight 600
+            
+    &-icon
+        &.isHidden
+            visibility hidden
+            
+            ^[0]:hover &
+                visibility visible
+
+        &--sorting
+            width 12px
+            height .5 * @width
+            margin-left .3 * @width
+
+.Control
+    cursor pointer
+    
+    &--undo
+    &--redo
+    &--reset
+        svg
+            display inline-block
+            fill color
+
+    &--undo
+        svg
+            width (8 / 9) * 1em
+            height (5 / 4) * 1em
+
+    &--redo
+        svg
+            width (8 / 9) * 1em
+            height @width
+            
+    &--reset
+        svg
+            width (10 / 8) * 1em
+            height (11 / 8) * 1em
+            margin-bottom - 0.25em
+            
+    &-text
+        font-weight 600
+        font-size 1em
+        margin-left .5em
+        margin-right @margin-left
+        
+    / .ControlContainer &
+        font-size 18px
+        
+    / .Restore &
+        font-size 20px
+
+.ControlContainer
+    last margin-bottom 1em 0
+    
+// Hotkeys
+hotkeys-fz = 14px
+hotkeys-font = Lato, sans-serif
+hotkeys-color = color
+hotkeys-border = 1px
+hotkey-shadow-size = 1px
+hotkey-shadow-color = color
+    
+.Hotkeys
+    display inline-flex
+    font-size hotkeys-fz
+    color hotkeys-color
+
+$triangle
+    content ''
+    position relative
+    background-color transparent
+    width 0
+    height @width
+    position absolute
+    z-index 1
+    border-width .5 * hotkey-shadow-size
+    border-style solid
+
+$triangle-bottom
+    left - hotkeys-border
+    bottom - (hotkeys-border + hotkey-shadow-size)
+    border-left-color transparent
+    border-bottom-color transparent
+    border-right-color hotkey-shadow-color
+    border-top-color hotkey-shadow-color
+
+$triangle-right
+    right - (hotkeys-border + hotkey-shadow-size)
+    top - hotkeys-border
+    border-right-color transparent
+    border-top-color transparent
+    border-left-color hotkey-shadow-color
+    border-bottom-color hotkey-shadow-color 
+    
+.Hotkey
+    border-style solid
+    border-width hotkeys-border
+    font-weight 700
+    padding .2em .5em
+    box-shadow hotkey-shadow-size hotkey-shadow-size 0 hotkey-shadow-color
+    position relative
+    z-index 1
+    
+    &::before
+        @extends $triangle
+        @extends $triangle-bottom
+        
+    &::after
+        @extends $triangle
+        @extend $triangle-right
+    
+.Hotkey-divider
+    margin-left .4em
+    margin-right .4em
+                
+.Snapshots
+    list-style-type none
+    padding-left 0
+    nullify margin-top margin-bottom
+    
+.Snapshot
+    opacity-min = 1
+    opacity-max = .1
+    steps = 10
+    
+    for i in (0..9)
+        opacity = 1 - i * (opacity-min - opacity-max) / steps;
+        &:nth-child({1 + i})
+            opacity opacity    
+    
+    last margin-bottom 1em 0
+
+    icon-container-width = 20px
+
+    &-icon
+        display inline-flex
+        justify-content center
+        align-items center
+        width icon-container-width
+        height @width
+        margin-right .6 * @width
+        opacity .8
+        
+        svg
+            fill color
+            icons = {
+                'action-delete': { alias: 'delete', width: 10px }, 
+                'triangle-up': { alias: 'triangle', width: 12px }, 
+                'triangle-down': { alias: 'triangle', width: 12px }, 
+                'star': { alias: 'star', width: 16px } 
+            }
+            
+            for key, value in icons
+                ../--{key} svg
+                    width = value[width]
+                    width: width
+                    height: (width / icon-ratios[value[alias]])
+    
+    &-message
+        display inline
+
+.Footer
+    &-content
+        display flex
+        justify-content space-between
+        align-items flex-start
+        for side in top bottom
+            padding-{side}: 64px
+        
+.Info
+    flex-basis .5 * wrap-width - info-gap
+    box-sizing border-box
+    padding info-padding     
+    border line
+    position relative
+    
+    &-head
+        background-image url(bg-image)
+        background-position top center
+        background-attachment fixed
+        background-size cover
+        font-size 20px
+        position absolute
+        left info-padding
+        margin-top 0
+        margin-bottom 0
+        height 24px
+        line-height @height
+        top -.5 * @height
+        background-color #fff
+        fade-before()
+        
+        for side in left right
+            padding-{side}: .5 * @height
+            
+        span
+            position relative
+            z-index 1
+            
+.Restore
+    display flex
+    justify-content center
+    font-size 18px
+    
+    &-text
+        margin-right 1em
+        
+tools-ff = 'Monoton', sans-serif
+tools-fz = 18px
+tools-color = #fff
+tools-icons-ratios = { react: 1, redux: 1, stylus: 393 / 241 }
+tools-coeff = .8
+tools-icon-height = 3.6 * tools-fz   
+     
+.Tools
+    text-align: center
+    color: tools-color
+    display: flex
+    flex-direction: column
+    align-items: center
+    padding-top 1em
+    padding-bottom @padding-top
+    
+    &-text
+        font-family tools-ff
+        line-height 1
+        height 1em
+        font-size tools-fz
+        text-transform uppercase
+        word-spacing .4em
+        
+    &-list
+        display flex
+        align-items center
+        justify-content flex-start
+        margin-top 1em
+        margin-bottom 1em
+        
+    &-item
+        text-decoration none
+        margin-right 1.5em
+        
+        &:last-child
+            margin-right 0
+        
+        svg
+            height tools-icon-height
+            fill tools-color
+        
+        for icon in react redux stylus
+            &--{icon}
+                svg
+                    width: (tools-icon-height * tools-icons-ratios[icon])
+                    if icon == stylus
+                        height tools-coeff * tools-icon-height
+                    else 
+                        height tools-icon-height
