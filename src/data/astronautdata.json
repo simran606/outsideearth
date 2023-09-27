@@ -1,0 +1,303 @@
+[
+  {
+    "img": "https://www.universetoday.com/wp-content/uploads/2009/11/gagarin-soviet-space-cosmonaut.jpg",
+    "title": "Yuri Gagarin",
+    "sampletext": "As the first man to ever go into space, no list of famous astronauts would be complete without Yuri Gagarin. Born in the village of Klushino in the Smolensk Oblast on March 9th, 1934, Gagarin was drafted into the Soviet Air Force in 1955 and trained in the use of jet fighters. In 1960, he was selected alongside 19 other pilots to join the newly-formed Soviet Space Program.    ",
+    "linkto": "https://www.nasa.gov/mission_pages/shuttle/sts1/gagarin_anniversary.html"
+  },
+  {
+    "img": "https://www.universetoday.com/wp-content/uploads/2011/05/alan-shepard.jpg",
+    "title": "Alan B. Shepard Jr.",
+    "sampletext": "In addition to being an astronaut and one of the Mercury Seven – the first seven pilots selected by NASA to go into space – Shepard was also the first American man to go into space. He was born November 18th, 1923 in Pebble, California and graduated from the United States Naval Academy with a Bachelor of Science degree. While in the Navy, Shepard became a fighter pilot and served aboard several aircraft carriers in the Mediterranean.",
+    "linkto": "https://er.jsc.nasa.gov/SEH/shepard.htm"
+  },
+  {
+    "img": "https://www.universetoday.com/wp-content/uploads/2009/11/valentina_tereshkova-e1433438259219.jpg",
+    "title": "Valentina Tereshkova",
+    "sampletext": "Another famous Russian cosmonaut, Tereshkova is also internationally renowned for being the first woman to go into space. Born in the village of Maslennikovo in central Russia on March 6th, 1937, Tereshkova became interested in parachuting from a young age and began training at the local aeroclub.",
+    "linkto": "https://www.esa.int/About_Us/ESA_history/50_years_of_humans_in_space/First_woman_in_space_Valentina"
+  },
+  {
+    "img": "https://www.universetoday.com/wp-content/uploads/2010/08/john-glenn.jpg",
+    "title": "John Glenn Jr.",
+    "sampletext": "Colonel Glenn, USMC (retired) was a Marine Corps fighter pilot and a test pilot before becoming an astronaut. Due to his experience, he was chosen by NASA to be part of the Mercury Seven in 1959. On February 20, 1962, Glenn flew the Friendship 7 mission, and thus became the first American astronaut to orbit the Earth and the fifth person to go into space.",
+    "linkto": "https://www.nasa.gov/content/profile-of-john-glenn"
+  },
+  {
+    "img": "https://www.universetoday.com/wp-content/uploads/2010/08/Neil-A.-Armstrong-inside-the-Lunar-Module-after-EVA-e1433364819638.jpg",
+    "title": "Neil Armstrong",
+    "sampletext": "Neil Armstrong is arguably the most famous astronauts, and indeed one of the most famous people that has ever lived. As commander of the historic Apollo 11 mission, he will forever be remembered as the first man to ever walk on a body other than Earth. Born on August 5th, 1930, in Wapakoneta, Ohio, he graduated from Purdue University and served the National Advisory Committee for Aeronautics High-Speed Flight Station before becoming an astronaut.",
+    "linkto": "https://www.nasa.gov/centers/glenn/about/bios/neilabio.html"
+  },
+  {
+    "img": "https://www.universetoday.com/wp-content/uploads/2009/11/Apollo13_crew-e1433373561406.jpg",
+    "title": "James Lovell Jr.",
+    "sampletext": "Lovell was born on March 25th, 1928 in Cleveland, Ohio. Like Shepard, he graduated from the US Naval Academy and served as a pilot before becoming one of the Mercury Seven. Over the course of his career, he flew several missions into space and served in multiple roles. The first was as the pilot of the Apollo 8 command module, which was the first spacecraft to enter lunar orbit.",
+    "linkto": "https://www.nasa.gov/sites/default/files/atoms/files/lovell_james_0.pdf"
+  },
+  {
+    "img": "https://www.universetoday.com/wp-content/uploads/2009/11/Sally_Ride-580x416.jpg",
+    "title": "Dr. Sally Ride",
+    "sampletext": "Sally Ride became renowned in the 1980s for being one of the first women to go into space. Though Russians had already sent up two female astronauts – Valentina Tereshkova (1963) and Svetlana Savitskaya (1982) – Ride was the first American female astronaut to make the journey. Born on May 26th, 1951, in La Jolla, California, Ride received her doctorate from Stanford University before joining NASA in 1978.",
+    "linkto": "https://www.nasa.gov/audience/forstudents/k-4/stories/nasa-knows/who-was-sally-ride-k4.html"
+  },
+  {
+    "img": "https://www.universetoday.com/wp-content/uploads/2009/11/Chris_Hadfield-e1433441586848.jpg",
+    "title": "Chris Hadfield",
+    "sampletext": "The Canadian astronaut, pilot and engineer who became famous for his rendition of “Space Oddity” while serving as the commander of the International Space Station. Born on August 29th, 1959 in Sarnia, Ontario, Hadfield became interesting in flying at a young age and in becoming an astronaut when he watched the televised Apollo 11 landing at age nine.",
+    "linkto": "https://www.nasa.gov/pdf/64090main_ffs_bio_hadfield.pdf"
+  },
+  {
+    "img": "https://imgix.ranker.com/node_img/33/650603/original/buzz-aldrin-writers-photo-1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&bg=fff&h=250&w=250",
+    "title": "Buzz Aldrin",
+    "sampletext": "Buzz Aldrin (born January 20, 1930) is an American engineer and a former astronaut and fighter pilot. Aldrin made three spacewalks as pilot of the 1966 Gemini 12 mission, and as the Apollo Lunar Module pilot on the 1969 Apollo 11 mission, he and mission commander Neil Armstrong were the first two humans to land on the Moon. ",
+    "linkto": "https://en.wikipedia.org/wiki/Buzz_Aldrin"
+  },
+  {
+    "img": "https://imgix.ranker.com/node_img/90/1788847/original/pete-conrad-all-people-photo-1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&bg=fff&h=250&w=250",
+    "title": "Pete Conrad",
+    "sampletext": "Charles 'Pete' Conrad Jr. (June 2, 1930 - July 8, 1999) (Captain, USN), was an American NASA astronaut, aeronautical engineer, naval officer and aviator, test pilot, and during the Apollo 12 mission became the third man to walk on the Moon. Conrad was selected in NASA's second astronaut class. ",
+    "linkto": "https://en.wikipedia.org/wiki/Pete_Conrad"
+  },
+  {
+    "img": "https://imgix.ranker.com/node_img/56/1113928/original/gus-grissom-film-characters-photo-1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&bg=fff&h=250&w=250",
+    "title": "Gus Grissom",
+    "sampletext": "Virgil Ivan 'Gus' Grissom (April 3, 1926 - January 27, 1967) was one of the seven original National Aeronautics and Space Administration's Project Mercury astronauts, and the first of the Mercury Seven to die. He was also a Project Gemini and an Apollo program astronaut. ",
+    "linkto": "https://en.wikipedia.org/wiki/Gus_Grissom"
+  },
+  {
+    "img": "https://imgix.ranker.com/node_img/120/2396651/original/william-r-pogue-all-people-photo-1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&bg=fff&h=250&w=250",
+    "title": "William R. Pogue",
+    "sampletext": "William Reid Pogue (January 23, 1930 - March 3, 2014), (Col, USAF), was an American astronaut, U.S. Air Force fighter pilot, and test pilot who was also an accomplished teacher, public speaker and author. Born and educated in Oklahoma, Pogue graduated from college and enlisted in the United States Air Force, in which he served for 24 years.",
+    "linkto": "https://en.wikipedia.org/wiki/William_R._Pogue"
+  },
+  {
+    "img": "https://imgix.ranker.com/node_img/75/1497696/original/mae-jemison-people-in-tv-photo-1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&bg=fff&h=250&w=250",
+    "title": "Mae Jemison",
+    "sampletext": "Mae Carol Jemison (born October 17, 1956) is an American engineer, physician and former NASA astronaut. She became the first black woman to travel in space when she served as a mission specialist aboard the Space Shuttle Endeavour. Jemison joined NASA's astronaut corps in 1987 and was selected to serve for the STS-47 mission, during which ",
+    "linkto": "https://en.wikipedia.org/wiki/Mae_Jemison"
+  },
+  {
+    "img": "https://imgix.ranker.com/user_node_img/106/2102652/original/story-musgrave-photo-u1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&bg=fff&h=250&w=250",
+    "title": "Story Musgrave",
+    "sampletext": "Franklin Story Musgrave, M.D. (born August 19, 1935) is an American physician and a retired NASA astronaut. He is a public speaker and consultant to both Disney's Imagineering group and Applied Minds in California. In 1996 he became only the second astronaut to fly on six spaceflights, and he is the most formally educated astronaut with",
+    "linkto": "https://en.wikipedia.org/wiki/Story_Musgrave"
+  },
+  {
+    "img": "https://imgix.ranker.com/node_img/57/1132433/original/harrison-schmitt-politicians-photo-1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&bg=fff&h=250&w=250",
+    "title": "Harrison Schmitt",
+    "sampletext": "Harrison Hagan 'Jack' Schmitt (born July 3, 1935) is an American geologist, retired NASA astronaut, university professor, former U.S. senator from New Mexico, and, as a crew member of Apollo 17, the most recent living person to have walked on the Moon. In December 1972, as one of the crew on board Apollo 17, Schmitt became the first member",
+    "linkto": "https://en.wikipedia.org/wiki/Harrison_Schmitt"
+  },
+  {
+    "img": "https://imgix.ranker.com/node_img/67/1331016/original/judith-resnik-all-people-photo-1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&bg=fff&h=250&w=250",
+    "title": "Judith Resnik",
+    "sampletext": "Judith Arlene Resnik (; April 5, 1949 - January 28, 1986) was an American electrical engineer, software engineer, biomedical engineer, pilot and NASA astronaut who died when the Space Shuttle Challenger was destroyed during the launch of mission STS-51-L. Resnik was the second American woman in space and the fourth woman in space worldwide",
+    "linkto": "https://en.wikipedia.org/wiki/Judith_Resnik"
+  },
+  {
+    "img": "https://imgix.ranker.com/node_img/97/1935065/original/ronald-mcnair-all-people-photo-1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&bg=fff&h=250&w=250",
+    "title": "Ronald McNair",
+    "sampletext": "Ronald Erwin McNair (October 21, 1950 - January 28, 1986) was an American NASA astronaut and physicist. He died during the launch of the Space Shuttle Challenger on mission STS-51-L, in which he was serving as one of three mission specialists in a crew of seven. In 1976, he received a Ph.D. degree in Physics from the Massachusetts Institute of",
+    "linkto": "https://en.wikipedia.org/wiki/Ronald_McNair"
+  },
+  {
+    "img": "https://imgix.ranker.com/node_img/56/1110818/original/guion-bluford-all-people-photo-1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&bg=fff&h=250&w=250",
+    "title": "Guion Bluford",
+    "sampletext": "Guion Stewart Bluford Jr., Ph.D. (born November 22, 1942), (Col, USAF, Ret.), is an American aerospace engineer, retired U.S. Air Force officer and fighter pilot, and former NASA astronaut, who is the first African American and the second person of African descent to go to space. Before becoming an astronaut, he was an officer in the U.S. Air",
+    "linkto": "https://en.wikipedia.org/wiki/Guion_Bluford"
+  },
+  {
+    "img": "https://imgix.ranker.com/node_img/47/920774/original/eileen-collins-all-people-photo-2?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&bg=fff&h=250&w=250",
+    "title": "Eileen Collins",
+    "sampletext": "Eileen Marie Collins (born November 19, 1956) is a retired NASA astronaut and a retired United States Air Force colonel. A former military instructor and test pilot, Collins was the first female pilot and first female commander of a Space Shuttle. She was awarded several medals for her work. Colonel Collins has logged 38 days 8 hours and",
+    "linkto": "https://en.wikipedia.org/wiki/Eileen_Collins"
+  },
+  {
+      "img": "https://www.nasa.gov/sites/default/files/styles/side_image/public/thumbnails/image/jsc2017e108516_alt.jpg?itok=vxJaGFUD",
+      "title": "Joseph M. Acaba",
+      "sampletext": "Joseph M. Acaba was selected by NASA in 2004. The California native has logged a total of 306 days in space on three missions.  In 2009, Acaba flew aboard STS-119 on the Space Shuttle Discovery to the International Space Station where he conducted two spacewalks. In 2012, Acaba flew aboard a Soyuz spacecraft to the space station where he worked as Flight Engineer for the Expedition 31/32.  Acaba most recently served as Flight Engineer on the space station for Expedition 53/54.",
+      "linkto": "https://www.nasa.gov/sites/default/files/atoms/files/acaba-jm.pdf"
+    },
+    {
+      "img": "https://www.nasa.gov/sites/default/files/styles/side_image/public/thumbnails/image/9368636071_1ef077531c_o.jpg?itok=IkaK3KNK",
+      "title": "Barratt, Michael M.",
+      "sampletext": "Dr. Michael R. Barratt was selected by NASA in 2000.  Board certified in Internal and Aerospace Medicine, he has participated in two spaceflights.  In 2009, Dr. Barratt served as Flight Engineer for Expedition 19/20.  This marked the transition from three to six permanent International Space Station crew members.  During this time, he performed two spacewalks.  He also flew on STS-133, which delivered the Permanent Multipurpose Module and fourth Express Logistics Carrier.  Currently, Dr. Barratt serves in the International Space Station Operations and Integration branches to handle medical issues and on orbit support.",
+      "linkto": "https://www.nasa.gov/sites/default/files/atoms/files/barratt-mr.pdf"
+    },
+    {
+      "img": "https://www.nasa.gov/sites/default/files/styles/side_image/public/thumbnails/image/jsc2017e118421_0.jpg?itok=NlxFdwEf",
+      "title": "Barron, Kayla R.",
+      "sampletext": "Kayla Barron was selected by NASA to join the 2017 Astronaut Candidate Class. She reported for duty in August 2017. The Washington native graduated from the U.S. Naval Academy with a bachelor’s degree in Systems Engineering. A Gates Cambridge Scholar, Barron earned a master’s degree in Nuclear Engineering from the University of Cambridge. As a Submarine Warfare Officer, Barron was a member of the first class of women commissioned into the submarine community. She is currently serving as mission specialist of the NASA SpaceX Crew-3 mission to the ISS, which launched on November 10, 2021.",
+      "linkto": "https://www.nasa.gov/sites/default/files/atoms/files/barron-k.pdf"
+    },
+    {
+      "img": "https://www.nasa.gov/sites/default/files/styles/side_image/public/thumbnails/image/9371018002_626f81d665_o.jpg?itok=0y23W3T5",
+      "title": "Behnken, Robert L.",
+      "sampletext": "Bob Behnken was selected as an astronaut by NASA in 2000 and is a veteran of three space flights. A native of Missouri, Colonel Behnken flew space shuttle missions STS-123 in March 2008 and STS-130 in February 2010.  He most recently served as Joint Operations Commander on the first crewed flight of the SpaceX Crew Dragon, the Demo-2 mission, which landed August 2, 2020.  He has accumulated 93 days in space and 61 hours of extravehicular activity time during 10 spacewalks.",
+      "linkto": "https://www.nasa.gov/sites/default/files/atoms/files/behnken-rl.pdf"
+    },
+    {
+      "img": "https://www.nasa.gov/sites/default/files/styles/side_image/public/thumbnails/image/boe_eric_a.jpg?itok=3UQvKWyI",
+      "title": "Boe, Eric A. ",
+      "sampletext": "Eric A. Boe was selected as an astronaut by NASA in 2000. The veteran of two spaceflights was born in Miami, Florida but grew up in Atlanta, Georgia. In 1987, Boe was commissioned from the U.S. Air Force Academy.  Before his military retirement in 2012, he logged more than 6000 flight hours in over 50 aircraft. Boe served as pilot for STS-126 Endeavour, a mission that expanded the living quarters of the International Space Station to eventually house six crew members by delivering a new bathroom, kitchen, two sleeping quarters, an exercise machine, and a water recycling system.   He also served as pilot for STS-133 Discovery.  This mission delivered the Permanent Multipurpose Module (PMM) and the fourth Express Logistics Carrier (ELC) to the International Space Station. ",
+      "linkto": "https://www.nasa.gov/sites/default/files/atoms/files/boe-ea_0.pdf"
+    },
+    {
+      "img": "https://www.nasa.gov/sites/default/files/styles/side_image/public/thumbnails/image/9368719254_4a2c64ac77_o.jpg?itok=T12vNPdd",
+      "title": "Bowen, Stephen G.",
+      "sampletext": "Stephen G. Bowen (Captain, U.S. Navy) was the first submarine officer to be selected as an astronaut by NASA. Bowen is a veteran of STS-126, STS-132 and STS-133. The STS-126 mission was the 27th International Space Station (ISS) assembly mission. The crew delivered equipment and supplies as well as expanded the living quarters to house six-member crews aboard ISS. STS -132 delivered an Integrated Cargo Carrier and a Russian Mini Research Module. STS 133 delivered the Permanent Multipurpose Module and the fourth Express Logistics Carrier (ELC) to the station. He has logged more than 40 days in space including 47 hours and 18 minutes in seven spacewalks. He is currently in training as backup for NASA SpaceX Crew-4 mission to the ISS.",
+      "linkto": "https://www.nasa.gov/sites/default/files/atoms/files/bowen-sg.pdf"
+    },
+    {
+      "img": "https://www.nasa.gov/sites/default/files/styles/side_image/public/thumbnails/image/9368145895_1a8b00e828_o-3.jpg?itok=q4vmFqg5",
+      "title": "Bresnik, Randolph J.",
+      "sampletext": "Randy “Komrade” Bresnik was selected as an astronaut in 2004.  He was commissioned as a Second Lieutenant in the U.S. Marine Corps in May 1989.  During his military career, he became an F/A-18 Test Pilot and was eventually deployed to Kuwait to fly combat missions in support of Operation Iraqi Freedom.   A veteran of STS-129, he has also trained as a Cave-a-naut with the European Space Agency to test living deep beneath the Earth’s surface as well as an Aquanaut for NASA’s Extreme Environment Mission Operation (NEEMO) 19.  Bresnik most recently served as the Commander of the International Space Station for Expedition 53 and flight engineer for Expedition 52. ",
+      "linkto": "https://www.nasa.gov/sites/default/files/atoms/files/bresnik-rj.pdf"
+    },
+    {
+      "img": "https://www.nasa.gov/sites/default/files/styles/side_image/public/thumbnails/image/jsc2017e116316_alt.jpg?itok=J9ICB7WG",
+      "title": "Cardman, Zena ",
+      "sampletext": "Zena Cardman was selected by NASA to join the 2017 Astronaut Candidate Class. She reported for duty in August 2017 and having completed the initial astronaut candidate training is now eligible for a mission assignment. The Virginia native holds a Bachelor’s of Science in Biology, and a Master’s of Science in Marine Sciences from the University of North Carolina, Chapel Hill. Her research focused primarily on microorganisms in subsurface environments, ranging from caves to deep sea sediments. Cardman’s experience includes multiple Antarctic expeditions. ",
+      "linkto": "https://www.nasa.gov/sites/default/files/atoms/files/cardman-z.pdf"
+    },
+    {
+      "img": "https://www.nasa.gov/sites/default/files/styles/side_image/public/thumbnails/image/12774511164_97ba5aaf9a_o.jpg?itok=9fAWNGMx",
+      "title": "Cassada, Josh A.",
+      "sampletext": "Josh A. Cassada was selected by NASA in 2013.  He grew up in White Bear Lake, Minnesota and is a physicist and US Navy test pilot. Dr. Cassada attended college in Michigan and then completed his Ph. D. research at Fermi National Accelerator Laboratory before becoming a naval aviator. After two operational deployments in the P-3C, including 23 combat missions, Cassada was a P-3C and P-8A test pilot, as well as an instructor at the US Naval Test Pilot School. Commander Cassada has accumulated more than 4,000 flight hours in over 45 different aircraft. ",
+      "linkto": "https://www.nasa.gov/sites/default/files/atoms/files/cassada-ja.pdf"
+    },
+    {
+      "img": "https://www.nasa.gov/sites/default/files/styles/side_image/public/thumbnails/image/jsc2017e114853_0.jpg?itok=Flb1G_kL",
+      "title": "Chari, Raja",
+      "sampletext": "Raja Chari was selected by NASA to join the 2017 Astronaut Candidate Class. He reported for duty in August 2017. The Iowa native graduated from the U.S. Air Force Academy in 1999 with a bachelor’s degrees in Astronautical Engineering and Engineering Science. He continued on to earn a master’s degree in Aeronautics and Astronautics from Massachusetts Institute of Technology and graduated from the U.S. Naval Test Pilot School. He is currently serving as commander of the NASA SpaceX Crew-3 mission to the ISS, which launched on November 10, 2021.",
+      "linkto": "https://www.nasa.gov/sites/default/files/atoms/files/chari-r.pdf"
+    },
+    {
+      "img": "https://imgix.ranker.com/node_img/68/1344355/original/kalpana-chawla-all-people-photo-1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&bg=fff&h=250&w=250",
+      "title": "Kalpana Chawla",
+      "sampletext": "Kalpana Chawla (March 17, 1962 – February 1, 2003) was an American astronaut, engineer, and the first woman of Indian descent to go to space. She first flew on Space Shuttle Columbia in 1997 as a mission specialist and primary robotic arm operator. In 2003, Chawla was one of the seven crew members who died in the Space Shuttle Columbia",
+      "linkto": "https://en.wikipedia.org/wiki/Kalpana_Chawla"
+    },
+    {
+      "img": "https://imgix.ranker.com/node_img/34/673106/original/carlos-i-noriega-all-people-photo-1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&bg=fff&h=250&w=250",
+      "title": "Carlos I. Noriega",
+      "sampletext": "Carlos Ismael Noriega (born 1959) is a Peruvian and U.S. citizen, NASA employee, a former NASA astronaut and a retired U.S. Marine Corps lieutenant colonel. ",
+      "linkto": "https://en.wikipedia.org/wiki/Carlos_I._Noriega"
+    },
+    {
+      "img": "https://imgix.ranker.com/node_img/51/1018286/original/frank-borman-people-in-tv-photo-1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&bg=fff&h=250&w=250",
+      "title": "Frank Borman",
+      "sampletext": "Frank Frederick Borman II (born March 14, 1928) is a retired United States Air Force (USAF) colonel, aeronautical engineer, test pilot, businessman, rancher, and NASA astronaut. He was the commander of Apollo 8, the first mission to fly around the Moon, and together with crewmates Jim Lovell and Bill Anders, became the first of 24 humans to do ",
+      "linkto": "https://en.wikipedia.org/wiki/Frank_Borman"
+    },
+    {
+      "img": "https://imgix.ranker.com/node_img/89/1774883/original/peggy-whitson-all-people-photo-1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&bg=fff&h=250&w=250",
+      "title": "Peggy Whitson",
+      "sampletext": "Peggy Annette Whitson (born February 9, 1960) is an American biochemistry researcher, retired NASA astronaut, and former NASA Chief Astronaut. Her first space mission was in 2002, with an extended stay aboard the International Space Station as a member of Expedition 5. Her second mission launched October 10, 2007, as the first female commander of",
+      "linkto": "https://en.wikipedia.org/wiki/Peggy_Whitson"
+    },
+    {
+      "img": "https://imgix.ranker.com/node_img/118/2356106/original/wally-schirra-writers-photo-1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&bg=fff&h=250&w=250",
+      "title": "Wally Schirra",
+      "sampletext": "Walter Marty Schirra Jr. (, March 12, 1923 – May 3, 2007) (Captain, USN, Ret.) was an American naval aviator and NASA astronaut. In 1959, he became one of the original seven astronauts chosen for Project Mercury, which was the United States' first effort to put human beings into space. On October 3, 1962, he flew the six-orbit,",
+      "linkto": "https://en.wikipedia.org/wiki/Wally_Schirra"
+    },
+    {
+      "img": "https://imgix.ranker.com/node_img/51/1017603/original/franklin-chang-diaz-people-in-film-photo-1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&bg=fff&h=250&w=250",
+      "title": "Franklin Chang Díaz",
+      "sampletext": "Franklin Ramón Chang Díaz (April 5, 1950) is a Costa Rican American mechanical engineer, physicist, former NASA astronaut. He is the founder and current CEO of Ad Astra Rocket Company as well as a member of Cummins' board of directors. He became an American citizen in 1977. He is of Costa Rican Spanish (maternal side) and Chinese",
+      "linkto": "https://en.wikipedia.org/wiki/Franklin_Chang_D%C3%ADaz"
+    },
+    {
+      "img": "https://imgix.ranker.com/user_node_img/96/1916778/original/roberta-bondar-photo-u1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&bg=fff&h=250&w=250",
+      "title": "Roberta Bondar",
+      "sampletext": "Roberta Bondar (; born December 4, 1945) is Canada's first female astronaut and the first neurologist in space. After more than a decade as head of an international space medicine research team collaborating with NASA, Bondar became a consultant and speaker in the business, scientific, and medical communities. Bondar has received many honours",
+      "linkto": "https://en.wikipedia.org/wiki/Roberta_Bondar"
+    },
+    {
+      "img": "https://imgix.ranker.com/node_img/73/1454091/original/lisa-nowak-all-people-photo-1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&bg=fff&h=250&w=250",
+      "title": "Lisa Nowak",
+      "sampletext": "Lisa Marie Nowak (née Caputo, born May 10, 1963) is an American former naval flight officer and NASA astronaut. Born in Washington, D.C., she was selected by NASA in 1996 and qualified as a mission specialist in robotics. Nowak flew aboard Space Shuttle Discovery during the STS-121 mission in July 2006, where she was responsible for operating the",
+      "linkto": "https://en.wikipedia.org/wiki/Lisa_Nowak"
+    },
+    {
+      "img": "https://imgix.ranker.com/node_img/24/470863/original/anousheh-ansari-people-in-film-photo-1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&bg=fff&h=250&w=250",
+      "title": "Anousheh Ansari",
+      "sampletext": "Anousheh Ansari (born September 12, 1966) is an Iranian-American engineer and co-founder and chairwoman of Prodea Systems. Her previous business accomplishments include serving as co-founder and CEO of Telecom Technologies, Inc. (TTI). The Ansari family is also the title sponsor of the Ansari X Prize.",
+      "linkto": "https://en.wikipedia.org/wiki/Anousheh_Ansari"
+    },
+    {
+      "img": "https://imgix.ranker.com/node_img/55/1088272/original/gordon-cooper-writers-photo-1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&bg=fff&h=250&w=250",
+      "title": "Gordon Cooper",
+      "sampletext": "Leroy Gordon 'Gordo' Cooper Jr. (March 6, 1927 – October 4, 2004) was an American aerospace engineer, test pilot, United States Air Force pilot, and the youngest of the seven original astronauts in Project Mercury, the first manned space program of the United States. Cooper learned to fly as a child, and after service in the United States Marine",
+      "linkto": "https://en.wikipedia.org/wiki/Gordon_Cooper"
+    },
+    {
+      "img": "https://imgix.ranker.com/node_img/107/2121987/original/sunita-williams-all-people-photo-1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&bg=fff&h=250&w=250",
+      "title": "Sunita Williams",
+      "sampletext": "Sunita Pandya Lyn Williams (born September 19, 1965) is an American astronaut and United States Navy officer of Indo-Slovenian descent. She formerly held the records for total spacewalks by a woman (seven) and most spacewalk time for a woman (50 hours, 40 minutes). Williams was assigned to the International Space Station as a member of Expedition",
+      "linkto": "https://en.wikipedia.org/wiki/Sunita_Williams"
+    },
+    {
+      "img": "https://imgix.ranker.com/node_img/67/1322446/original/joseph-a-walker-all-people-photo-1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&bg=fff&h=250&w=250",
+      "title": "Joseph A. Walker",
+      "sampletext": "Joseph Albert Walker (February 20, 1921 - June 8, 1966) (Capt, USAF) was an American World War II pilot, experimental physicist, NASA test pilot, and astronaut. He was one of twelve pilots who flew the North American X-15, an experimental spaceplane jointly operated by the Air Force and NASA. In 1963 Walker made three flights above 50 miles",
+      "linkto": "https://en.wikipedia.org/wiki/Joseph_A._Walker"
+    },
+    {
+      "img": "https://imgix.ranker.com/node_img/64/1278718/original/jeffrey-ashby-all-people-photo-1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&bg=fff&h=250&w=250",
+      "title": "Jeffrey Ashby",
+      "sampletext": "Jeffrey Shears 'Bones' Ashby (born June 16, 1954) is an American mechanical engineer, and former naval officer and aviator, test pilot and NASA astronaut, a veteran of three Space Shuttle missions. He is a retired Captain in the U.S. Navy. He currently works for Blue Origin as chief of mission assurance. ",
+      "linkto": "https://en.wikipedia.org/wiki/Jeffrey_Ashby"
+    },
+    {
+      "img": "https://imgix.ranker.com/node_img/56/1102481/original/gregory-chamitoff-all-people-photo-1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&bg=fff&h=250&w=250",
+      "title": "Gregory Chamitoff",
+      "sampletext": "Gregory Errol Chamitoff (born 6 August 1962 in Montreal, Quebec, Canada) is an engineer and former NASA astronaut. He has been to space twice, spending 6 months aboard the ISS across Expedition 17 and 18 in 2008, and another 15 days as part of STS-134 in 2011. STS-134 was the last of Space Shuttle Endeavour which delivered the Alpha Magnetic",
+      "linkto": "https://en.wikipedia.org/wiki/Gregory_Chamitoff"
+    },
+    {
+      "img": "https://imgix.ranker.com/node_img/97/1920091/original/robert-henry-lawrence-jr-all-people-photo-1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&bg=fff&h=250&w=250",
+      "title": "Robert Henry Lawrence, Jr.",
+      "sampletext": "Robert Henry Lawrence Jr. (October 2, 1935 – December 8, 1967) was a United States Air Force officer and the first African-American astronaut",
+      "linkto": "https://en.wikipedia.org/wiki/Robert_Henry_Lawrence_Jr."
+    },
+    {
+      "img": "https://imgix.ranker.com/node_img/51/1018673/original/frank-de-winne-all-people-photo-1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&bg=fff&h=250&w=250",
+      "title": "Frank De Winne",
+      "sampletext": "Frank, Viscount De Winne (born 25 April 1961, in Ledeberg, Belgium) is a Belgian Air Component officer and an ESA astronaut. He is Belgium's second person in space (after Dirk Frimout). He was the first ESA astronaut to command a space mission when he served as commander of ISS Expedition 21. ESA astronaut de Winne serves currently as Head of the",
+      "linkto": "https://en.wikipedia.org/wiki/Frank_De_Winne"
+    },
+    {
+      "img": "https://imgix.ranker.com/node_img/97/1923026/original/robert-thirsk-all-people-photo-1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&bg=fff&h=250&w=250",
+      "title": "Robert Thirsk",
+      "sampletext": "Robert Brent 'Bob' Thirsk, (born August 17, 1953) is a Canadian engineer and physician, and a former Canadian Space Agency astronaut. He holds the Canadian records for the most time spent in space (204 days 18 hours). He became an officer of the Order of Canada (OC) in 2013 and was named to the Order of British Columbia (OBC) in 2012.",
+      "linkto": "https://en.wikipedia.org/wiki/Robert_Thirsk"
+    },
+    {
+      "img": "https://imgix.ranker.com/node_img/63/1257538/original/jake-garn-politicians-photo-1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&bg=fff&h=250&w=250",
+      "title": "Jake Garn",
+      "sampletext": "Edwin Jacob 'Jake' Garn (born October 12, 1932) is an American astronaut, politician, and member of the Republican Party, who served as a U.S. Senator representing Utah from 1974 to 1993. Garn became the first sitting member of the United States Congress to fly in space when he flew aboard the Space Shuttle Discovery as a Payload Specialist during",
+      "linkto": "https://en.wikipedia.org/wiki/Jake_Garn"
+    },
+    {
+      "img": "https://imgix.ranker.com/node_img/95/1890148/original/reinhard-furrer-all-people-photo-1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&bg=fff&h=250&w=250",
+      "title": "Reinhard Furrer",
+      "sampletext": "Prof. Dr. Reinhard Alfred Furrer (25 November 1940 – 9 September 1995) was a German physicist and astronaut. Furrer was born in Wörgl, Ostmark (now Austria). After the end of World War II, his father was expelled from Austria. The family found a new home in Kempten im Allgäu, Bavaria. Furrer stayed there until he joined the University of Kiel to",
+      "linkto": "https://en.wikipedia.org/wiki/Reinhard_Furrer"
+    },
+    {
+      "img": "https://imgix.ranker.com/node_img/118/2356797/original/walter-cunningham-all-people-photo-1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&bg=fff&h=250&w=250",
+      "title": "Walter Cunningham",
+      "sampletext": "Ronnie Walter Cunningham (born March 16, 1932), (Col, USMCR, Ret.) is a retired American astronaut. In 1968, he was a Lunar Module Pilot on the Apollo 7 mission. He was NASA's third civilian astronaut (after Neil Armstrong and Elliot See), and has also been a fighter pilot, physicist, entrepreneur, venture capitalist, and author of The",
+      "linkto": "https://en.wikipedia.org/wiki/Walter_Cunningham"
+    },
+    {
+      "img": "https://imgix.ranker.com/node_img/120/2390173/original/william-anders-all-people-photo-2?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&bg=fff&h=250&w=250",
+      "title": "William Anders",
+      "sampletext": "William Alison Anders (born October 17, 1933), is a retired United States Air Force Major general, former electrical engineer, nuclear engineer, NASA astronaut, and businessman. In December 1968, as a crew member of Apollo 8, he was one of the first three people to leave low Earth orbit and travel to the Moon. Along with fellow astronauts Frank",
+      "linkto": "https://en.wikipedia.org/wiki/William_Anders"
+    }
+  ]
+  

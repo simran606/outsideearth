@@ -1,0 +1,113 @@
+.shopsectiondiv{
+    display: inline-block;
+    margin: 20px 30px;
+    background-color: white;
+    padding: 40px 20px;
+    width: 25vw;
+}
+
+.shopsectionimg{
+    height: 280px;
+    width: 330px;
+    margin-bottom: 20px;
+}
+
+.shopsectiondiv h2{
+    margin: 20px 0 10px;
+    height: 15vh;
+}
+
+.shopsectiondiv p{
+    height: 100px;
+} 
+
+.shopsectiondiv .price{
+    margin-bottom: 2rem;
+    height: 20px;
+}
+
+.pagination{
+    text-align: center;
+    margin: 40px 0;
+    justify-content: center;
+}
+
+.pagination .active{
+    color: grey;
+    font-size: 1.9rem;
+}
+
+.pagination li{
+    margin: 10px;
+    font-size: 2rem;
+    height: 3rem;
+}
+
+.pagination a{
+    justify-content: center;
+}
+
+.pagination .previous{
+    border: 1px solid grey;
+    padding: 0 7px 8px;
+    font-size: 28px;
+}
+
+.pagination .next{
+    border: 1px solid grey;
+    padding: 0 7px 8px;
+    font-size: 28px;
+}
+
+.pagination .previous a{
+    color: black;
+    /* font-size: 1.2rem; */
+}
+
+.pagination .next a{
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width:601px) and (max-width: 1025px) {
+
+    .shopsectiondiv{
+        margin: 20px 30px;
+        padding: 40px 20px;
+        width: 40vw;
+    }
+    
+    .shopsectionimg{
+        height: 220px;
+        width: 260px;
+    }
+    
+    .shopsectiondiv h2{
+        font-size: 20px;
+        height: 18vh;
+        margin: 20px 0 10px;
+        text-align: left;
+    }
+
+
+}

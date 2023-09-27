@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;600;700&display=swap');
+
+.mainaboutusdiv {
+  /* text-align: center; */
+  font-family: 'Poppins', sans-serif;
+}
+
+.aboutusimg{
+    height: 100vh;
+    width: 98.9vw;
+}
+
+.aboutush1{
+    position: absolute;
+    top: 16em;
+    left: 16em;
+    text-align: center;
+    color: white;
+}
+
+.aboutusp{
+    padding: 100px 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 600px) {
+
+      .aboutusimg{
+          height: 60vh;
+          width: 100vw;
+      }
+      
+      .aboutush1{
+          position: absolute;
+          bottom: 50px;
+          left: 8.5rem;
+      }
+      
+      .aboutusp{
+          padding: 60px 25px;
+      }
+}

@@ -1,0 +1,1125 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;600;700&display=swap');
+
+.sdiv{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    padding: 100px 0;
+    background-color: rgb(241, 241, 241);
+}
+
+.sdiv h1{
+    margin-bottom: 40px;
+}
+
+.bp{
+    padding: 0 100px;
+    text-align: left;
+}
+
+.sbp{
+    padding: 0 100px 70px;
+    text-align: left;
+}
+
+.searchcol{
+    margin: 20px auto;
+    text-align: center;
+    align-self: center;
+}
+
+.form-control{
+    width: 40vw;
+    display: inline;
+}
+
+.search-icon{
+    position: relative;
+    right: 35px;
+}
+
+.readbtn{
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 30px 0;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+}
+
+.readbtnlight{
+    border: 1px solid white;
+    border-radius: 5px;
+    margin: 30px 0;
+    padding: 10px;
+    background-color: transparent;
+    color: white;
+    text-decoration: none;
+}
+
+.readbtn:hover{
+    border: 1px solid black;
+    border-radius: 0;
+    background-color: white;
+    color: black;
+}
+
+.readbtnlight:hover{
+    background-color: white;
+    color: black;
+}
+
+a{
+    text-decoration: none;
+}
+
+.ant-table-tbody > tr.ant-table-row:hover > td, .ant-table-tbody > tr > td.ant-table-cell-row-hover {
+    /* transform: scale(1.1); */
+    background: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 600px) {
+    .sdiv{
+        padding: 60px 0;
+        text-align: center;
+    }
+    
+    .sdiv h1{
+        margin-bottom: 20px;
+    }
+    
+    .bp{
+        padding: 0 20px;
+    }
+    
+    .sbp{
+        padding: 0 20px 70px;
+    }
+    
+    .searchcol{
+        padding: 20px;
+        margin: 20px auto;
+        text-align: center;
+        align-self: center;
+    }
+    
+    .form-control{
+        width: 100vw;
+        margin-right: 0;
+    }
+    
+    .search-icon{
+        position: relative;
+        right: 48px; 
+        top: 10px;
+    }
+    
+    .readbtn{
+        width: 30vw;
+        margin: 10px auto;
+        text-align: center;
+    }
+    
+    .readbtnlight{
+        width: 30vw;
+        margin: 10px auto;
+        text-align: center;
+    }
+    
+    .readbtn:hover{
+        border: 1px solid black;
+        border-radius: 0;
+        background-color: white;
+        color: black;
+    }
+    
+    .readbtnlight:hover{
+        background-color: white;
+        color: black;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width:601px) and (max-width: 1025px) {
+
+    .sdiv{
+        padding: 60px 0;
+    }
+    
+    .bp{
+        padding: 0 40px;
+    }
+    
+    .sbp{
+        padding: 0 70px 70px;
+    }
+    
+    .searchcol{
+        padding: 50px 100px;
+    }
+    
+    .form-control{
+        width: 80vw;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+/********************************************************** Blog ***********************************************************/
+
+.blogrow{
+    margin: 40px 200px;
+    border: 1px solid grey;
+    padding: 40px 20px;
+    text-align: left;
+    /* transition: all 0.7s ease;
+    transform: scale(1); */
+}
+
+/* .blogrow:hover{
+    transform: scale(1.1);
+} */
+
+.blogcol h2{
+    margin-bottom: 1.5rem;
+}
+
+.blogcol p{
+    margin: 20px 0;
+}
+
+.blogsubdiv{
+    text-align: left;
+}
+
+.blogimgcol{
+    padding: 0 20px;
+}
+
+.blogimg{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    float: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 600px) {
+    .blogrow{
+        margin: 20px;
+    }
+
+    .col-sm-3 {
+        width: 30%;
+        display: inline;
+    }
+
+    .col-sm-9{
+        width: 70%;
+        display: inline;
+    }
+
+    .blogcol h2{
+        margin-bottom: 2.5rem;
+        font-size: 20px;
+    }
+    
+    .blogcol p{
+        margin: 20px 0;
+    }
+    
+    .blogimgcol{
+        padding: 0;
+    }
+    
+    .blogimg{
+        width: 100px;
+        height: 100px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+@media (min-width:601px) and (max-width: 1025px) {
+
+    .blogrow{
+        margin: 40px 50px;
+        padding: 40px 10px;
+    }
+
+    .blogimgcol{
+        padding: 0 10px;
+    }
+    
+    .blogimg{
+        width: 150px;
+        height: 150px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/********************************************************* Books *********************************************************/
+
+.bookrow{
+    margin: 40px 150px;
+    /* border: 1px solid grey; */
+    padding: 40px 20px;
+    text-align: left;
+}
+
+.bookimg{
+    height: 300px;
+    width: 200px;
+}
+
+.bookcol h2{
+    margin-bottom: 1rem;
+}
+
+.bookcol p{
+    margin: 20px 0 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 600px) {
+
+    .bookrow{
+        margin: 0;
+        padding: 20px;
+    }
+    
+    .bookimg{
+        height: 150px;
+        width: 100px;
+    }
+
+    /* .col-sm-3 {
+        width: 30%;
+    }
+
+    .col-sm-9{
+        width: 70%;
+    } */
+    
+    .bookcol h2{
+        margin-bottom: 1rem;
+    }
+    
+    .bookcol p{
+        margin: 0 ;
+        /* display: block; */
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/******************************************************** Shop ********************************************************/
+
+.shopdiv{
+    padding: 20px;
+    display: inline-block;
+    position: relative;
+}
+
+.shopcol{
+    width: 30%;
+    position: relative;
+    /* display: inline-block; */
+
+}
+
+.shopimg{
+    height: 300px;
+    width: 320px;
+    opacity: 50%;
+}
+
+.shopimg:hover{
+    opacity: 90%;
+    color: white;
+}
+
+.shopimg:hover ~ h3{
+    color: white;
+}
+
+.shopdiv h3{
+    color: black;
+    position: absolute;
+    top: 150px;
+    /* bottom: 20px; */
+    width: 20vw;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 600px) {}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/******************************************************* Video *************************************************/
+
+.videodiv{
+    width: 40vw;
+    padding: 20px;
+    margin: 20px;
+    display: inline-block;
+    border: 1px solid grey;
+    position: relative;
+    transition: all 0.7s ease;
+    transform: scale(1);
+}
+
+/* .videodiv:hover{
+    opacity: 50%;
+    transform: scale(1.1);
+} */
+
+.playicon{
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 250px;
+    left: 280px;
+    width: 40vw;
+    display: none;
+}
+
+.videodiv:hover ~ .playicon{
+    display: block;
+}
+
+.videoimg{
+    height: 400px;
+    width: 550px;
+}
+
+.videodiv h3{
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 600px) {}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/******************************************************* Astronaut ******************************************************/
+
+.astronautdiv{
+    width: 25rem;
+    /* height: 100vh; */
+    display: inline-block;
+    /* display: inline; */
+    margin: 30px;
+    padding: 40px 20px;
+    transition: all 0.7s ease;
+    transform: scale(1);
+    background-color: white;
+    border-radius: 10px;
+}
+
+.astronautdiv:hover{
+    transform: scale(1.1);
+}
+
+.astronautimg{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+.astronautdiv p{
+    text-align: left;
+    height: 27vh;
+}
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 600px) {}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/********************************************************* Space Centre *********************************************************/
+
+.spacecentrediv{
+    /* width: 40rem; */
+    /* display: inline-block; */
+    margin: 30px 120px;
+    padding: 40px 20px;
+    background-color: white;
+}
+
+.spacecentreimg{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.spacecentrediv h2{
+    text-align: left;
+    margin: 15px 0;
+}
+
+.spacecentrediv p{
+    text-align: left;
+    margin: 10px 0 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 600px) {}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/********************************************************* Quiz *********************************************************/
+
+.quizdiv{
+    display: inline-block;
+    margin: 30px;
+    transition: all 0.7s ease;
+    transform: scale(1);
+    border-radius: 10px;
+}
+
+.quizdiv:hover{
+    transform: scale(1.1);
+}
+
+.quizimg{
+    height: 250px;
+    width: 350px;
+    opacity: 80%;
+}
+
+.quizimg:hover{
+    opacity: 100%;
+}
+
+.quizsubdiv{
+    position: absolute;
+    top: 70px;
+    color: white;
+    width: 350px;
+}
+
+.quizsubdiv h2{
+    margin-bottom: 1.5rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 600px) {}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/********************************************************* Games *********************************************************/
+
+
+/* .gdiv{
+    background-color: black;
+    background-image: url('https://images.unsplash.com/photo-1506318137071-a8e063b4bec0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fHNwYWNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60');
+    color: white;
+} */
+
+.gamesbg{
+    width: 98.9vw;
+    height: 100vh;
+    opacity: 80%;
+}
+
+.gamebp{
+    margin-bottom: 6rem;
+}
+
+.gamesdiv{
+    width: 25rem;
+    height: 30vh;
+    /* height: 100vh; */
+    display: inline-block;
+    margin: 30px;
+    padding: 40px 10px;
+    transition: all 0.7s ease;
+    transform: scale(1);
+    border-radius: 10px;
+    background-color: white;
+    /* color: white; */
+    /* border: 1px solid white; */
+    /* border: 1px solid black; */
+    color: black;
+}
+
+.gamesdiv:hover{
+    transform: scale(1.1);
+}
+
+.gamesdiv h2{
+    margin-bottom: 1.5rem;
+}
+
+.games-icon{
+    color: black;
+    /* color: white; */
+    margin: 0 0 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 600px) {}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#page-numbers {
+    list-style: none;
+    display: flex;
+  }
+  
+  #page-numbers > li {
+    margin-right: 0.3em;
+    color: blue;
+    user-select: none;
+    cursor: pointer;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.ant-table-row{
+    display: inline;
+    transition: all 0.7s ease;
+    transform: scale(1);
+}
+
+td.ant-table-cell-row-hover{
+    background-color: transparent;
+    background: transparent;
+}
+
+.ant-table-cell:hover{
+    background: none;
+}
+
+.ant-table-row:hover{
+    background: none;
+}
+
+
+
+.ant-table {
+    background: #f1f1f1;
+}
+
+.ant-table-pagination-right {
+    justify-content: center;
+}
+
+/* .ant-table-pagination-right {
+    justify-content: center;
+} */
+
+.ant-table-wrapper{
+    background: #f1f1f1;
+}
+
+.result-text{
+    margin: 20px auto;
+}
+
+tbody, td, tfoot, th, thead, tr {
+    background: #f1f1f1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/************************************* React Pagination ****************************************/
+
+
+
+.page-item.active .page-link {
+    z-index: 3;
+    background-color: #343a40;
+    color: white;
+    border-color: white;
+}
+
+.page-link:hover {
+    z-index: 2;
+    color: white;
+    background-color: #343a40;
+    border-color: #343a40;
+}
+
+a:hover {
+    color: #343a40;
+}
+
+.page-link {
+    padding: 0.5rem 0.5rem;
+}
+
+.page-link {
+    color: #343a40;
+}
+
+a {
+    color: #343a40;
+}
+
+.pagination .active {
+    color: grey;
+    font-size: 1rem;
+}
